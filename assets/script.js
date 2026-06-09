@@ -37,7 +37,7 @@ if (slidesWrap) {
   const slides = Array.from(slidesWrap.querySelectorAll(".slide"));
   let current = 0;
   let timer = null;
-  const INTERVAL = 2500;
+  const INTERVAL = 1800;
 
   // build dots
   const dots = slides.map((_, i) => {
