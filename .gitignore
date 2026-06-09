@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+deploy.sh
+CLAUDE.md
+
