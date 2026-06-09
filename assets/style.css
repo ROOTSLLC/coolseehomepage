@@ -286,6 +286,7 @@ h1, h2, h3, h4 { line-height: 1.5; margin: 0; font-weight: 500; }
   .frow__body p:not(.note) { font-size: .85rem; }
   .color__desc { font-size: .8rem; }
   .line-band__inner { flex-direction: column; text-align: center; }
+  .line-band__qr { display: none; }
   .line-band__eyebrow { margin-inline: auto; font-size: .68rem; }
   .line-band__lead { font-size: .82rem; }
   .btn--line-lg { padding: 12px 22px; font-size: .86rem; }
